@@ -1,10 +1,10 @@
 {
-	"name": "Teste Kong",
-	"short_name": "Teste Kong",
+	"name": "ABC Learn",
+	"short_name": "ABC Learn",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "any",
+	"orientation": "landscape",
 	"background_color": "#ffffff",
 	"icons": [
 		{
